@@ -1,0 +1,21 @@
+## Interface: 110100
+## Title: Housing Decor Guide
+## Notes: Comprehensive guide to crafting housing decorations across all expansions
+## Author: YourName
+## Version: 1.1.0
+## SavedVariables: HousingDecorGuideDB
+
+Core.lua
+Data.lua
+Data_Alchemy.lua
+Data_Blacksmithing.lua
+Data_Cooking.lua
+Data_Enchanting.lua
+Data_Engineering.lua
+Data_Inscription.lua
+Data_Jewelcrafting.lua
+Data_Leatherworking.lua
+Data_Tailoring.lua
+Data_Trainers.lua
+UI.lua
+MinimapButton.lua
